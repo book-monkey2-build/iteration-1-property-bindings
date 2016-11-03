@@ -14,7 +14,6 @@ import { BookListItemComponent } from './book-list-item/book-list-item.component
   imports: [
     BrowserModule
   ],
-  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
