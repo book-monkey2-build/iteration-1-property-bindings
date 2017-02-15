@@ -19,7 +19,7 @@ export class BookListComponent implements OnInit {
         'Einstieg in die komponentenbasierte Entwicklung von Web- und Mobile-Anwendungen',
         5,
         [new Thumbnail('https://ng-buch.de/cover2.jpg', 'Buchcover')],
-        'Mit Angular setzen Sie auf ein modernes und modulares...'
+        'Dieses Buch vermittelt einen Schnelleinstieg in Angular...'
       ),
       new Book(
         '9783864901546',
